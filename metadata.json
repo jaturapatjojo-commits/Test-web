@@ -1,0 +1,8 @@
+{
+  "name": "หลักสูตรวิทยาการ AI และนวัตกรรมดิจิทัล (AI & Digital Innovation)",
+  "description": "เว็บไซต์แนะนำหลักสูตรเทคโนโลยีปัญญาประดิษฐ์และนวัตกรรมดิจิทัล จบครบในหน้าเดียว โทนสีชมพู-ขาว พร้อมโครงสร้างวิชา ทุนการศึกษา และระบบสมัครเรียน",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
